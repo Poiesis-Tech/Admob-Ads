@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ /***************************************************************
+  ~  * @Author: Tariq Hussain
+  ~  * @Date: 3/20/24, 4:26 PM.
+  ~  * @Accounts
+  ~  *      -> https://github.com/Tariq2518
+  ~  *      -> https://www.linkedin.com/in/tariqhpk/
+  ~  *
+  ~  * All rights reserved.
+  ~  * Copying and redistributing are not allowed.
+  ~  ***************************************************************/
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:topLeftRadius="10dp" />
+            <solid android:color="?attr/colorPrimary" />
+        </shape>
+    </item>
+
+</selector>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ /***************************************************************
+  ~  * @Author: Tariq Hussain
+  ~  * @Date: 3/20/24, 1:19 PM.
+  ~  * @Accounts
+  ~  *      -> https://github.com/Tariq2518
+  ~  *      -> https://www.linkedin.com/in/tariqhpk/
+  ~  *
+  ~  * All rights reserved.
+  ~  * Copying and redistributing are not allowed.
+  ~  ***************************************************************/
+  -->
+
+<defaultsMap>
+    <!--    Interstitial ad-->
+    <entry>
+        <key>interstitial_ad</key>
+        <value>1</value>
+    </entry>
+
+
+    <!--    Native ad-->
+    <entry>
+        <key>native_ad</key>
+        <value>1</value>
+    </entry>
+
+
+    <!--    Banner ad -->
+    <entry>
+        <key>banner_ad</key>
+        <value>1</value>
+    </entry>
+
+
+    <!--    Open App ad -->
+    <entry>
+        <key>app_open_ad</key>
+        <value>1</value>
+    </entry>
+
+
+    <!--    Counter -->
+    <entry>
+        <key>counter</key>
+        <value>3</value>
+    </entry>
+
+</defaultsMap>
